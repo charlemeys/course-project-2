@@ -1,6 +1,6 @@
 # Reproducible Research Course Project 2
 
-**Jeffrey M. Hunter**
+**akoa charles**
 
 May 27, 2024
 
